@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.preference.PreferenceScreen
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <CheckBoxPreference
+        android:defaultValue="false"
+        android:key="@string/key_include_addition"
+        android:title="@string/inc_add" />
+
+    <CheckBoxPreference
+        android:defaultValue="false"
+        android:key="@string/key_include_subtraction"
+        android:title="@string/inc_sub" />
+
+    <CheckBoxPreference
+        android:defaultValue="false"
+        android:key="@string/key_include_multiplication"
+        android:title="@string/inc_mult" />
+
+    <CheckBoxPreference
+        android:defaultValue="false"
+        android:key="@string/key_include_division"
+        android:title="@string/inc_div" />
+</androidx.preference.PreferenceScreen>

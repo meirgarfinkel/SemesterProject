@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Semester Project</string>
+    <string name="settings">Settings</string>
+    <string name="about">About</string>
+
+    <string name="about_text">This app helps you become proficient at low number math.</string>
+
+    <string name="inc_add">Include (+) </string>
+    <string name="inc_sub">Include (-) </string>
+    <string name="inc_mult">Include (x) </string>
+    <string name="inc_div">Include (/) </string>
+
+    <string name="key_include_addition">INCLUDE_ADDITION</string>
+    <string name="key_include_subtraction">INCLUDE_SUBTRACTION</string>
+    <string name="key_include_multiplication">INCLUDE_MULTIPLICATION</string>
+    <string name="key_include_division">INCLUDE_DIVISION</string>
+    <string name="correct">CORRECT!</string>
+    <string name="wrong">WRONG...</string>
+
+</resources>

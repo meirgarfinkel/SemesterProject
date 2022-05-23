@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Repos/Android/SemesterProject/app/src/main/res/drawable-nodpi/splash_background.xml" value="0.2245" />
+        <entry key="..\:/Repos/Android/SemesterProject/app/src/main/res/drawable/rounded_border.xml" value="0.5435" />
+        <entry key="..\:/Repos/Android/SemesterProject/app/src/main/res/layout-land/content_main.xml" value="0.26145833333333335" />
+        <entry key="..\:/Repos/Android/SemesterProject/app/src/main/res/layout/content_main.xml" value="0.45179584120982985" />
+        <entry key="..\:/Repos/Android/SemesterProject/app/src/main/res/layout/include_fab.xml" value="0.5494791666666666" />
+        <entry key="..\:/Repos/Android/SemesterProject/app/src/main/res/layout/include_toolbar.xml" value="0.1" />
+        <entry key="..\:/Repos/Android/SemesterProject/app/src/main/res/menu/menu_main.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
